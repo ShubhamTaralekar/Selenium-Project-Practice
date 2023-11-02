@@ -36,7 +36,7 @@ public class AmazoneTest {
 		
 	
 	//searchBox0.submit();
-		//
+		//Handle new Window tab
 		 Set<String> newWindow=driver.getWindowHandles();//parentId,childId,subchidId
 		 
 		 Iterator<String> it= newWindow.iterator();
